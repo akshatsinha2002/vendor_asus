@@ -58,6 +58,7 @@ PRODUCT_COPY_FILES += \
     vendor/asus/X00T/proprietary/lib/libfm-hci.so:system/lib/libfm-hci.so \
     vendor/asus/X00T/proprietary/lib/libmmosal.so:system/lib/libmmosal.so \
     vendor/asus/X00T/proprietary/lib/libmmparser_lite.so:system/lib/libmmparser_lite.so \
+    vendor/asus/X00T/proprietary/lib/libmegface_meglive.so:system/lib/libmegface_meglive.so \
     vendor/asus/X00T/proprietary/lib/libmmrtpdecoder.so:system/lib/libmmrtpdecoder.so \
     vendor/asus/X00T/proprietary/lib/libmmrtpencoder.so:system/lib/libmmrtpencoder.so \
     vendor/asus/X00T/proprietary/lib/libqmi_cci_system.so:system/lib/libqmi_cci_system.so \
@@ -123,6 +124,12 @@ PRODUCT_COPY_FILES += \
     vendor/asus/X00T/proprietary/lib64/libjni_trueportrait.so:system/lib64/libjni_trueportrait.so \
     vendor/asus/X00T/proprietary/lib64/libjni_truescanner_v2.so:system/lib64/libjni_truescanner_v2.so \
     vendor/asus/X00T/proprietary/lib64/libjni_ubifocus.so:system/lib64/libjni_ubifocus.so \
+    vendor/asus/X00T/proprietary/lib64/libarcsoft_night_shot.so:system/lib64/libarcsoft_night_shot.so \
+    vendor/asus/X00T/proprietary/lib64/libjni_hq_night_shot.so:system/lib64/libjni_hq_night_shot.so \
+    vendor/asus/X00T/proprietary/lib64/libjni_snapcammosaic.so:system/lib64/libjni_snapcammosaic.so \
+    vendor/asus/X00T/proprietary/lib64/libjni_snapcamtinyplanet.so:system/lib64/libjni_snapcamtinyplanet.so \
+    vendor/asus/X00T/proprietary/lib64/libmegface_meglive.so:system/lib64/libmegface_meglive.so \
+    vendor/asus/X00T/proprietary/lib64/libmpbase.so:system/lib64/libmpbase.so \
     vendor/asus/X00T/proprietary/lib64/libmmosal.so:system/lib64/libmmosal.so \
     vendor/asus/X00T/proprietary/lib64/libmmparser_lite.so:system/lib64/libmmparser_lite.so \
     vendor/asus/X00T/proprietary/lib64/liboptizoom.so:system/lib64/liboptizoom.so \
