@@ -57,6 +57,7 @@ PRODUCT_COPY_FILES += \
     vendor/asus/X00T/proprietary/framework/tcmclient.jar:system/framework/tcmclient.jar \
     vendor/asus/X00T/proprietary/framework/vendor.qti.hardware.fingerprint-V1.0-java.jar:system/framework/vendor.qti.hardware.fingerprint-V1.0-java.jar \
     vendor/asus/X00T/proprietary/lib/com.qualcomm.qti.ant@1.0.so:system/lib/com.qualcomm.qti.ant@1.0.so \
+    vendor/asus/X00T/proprietary/framework/qti-telephony-common.jar:system/framework/qti-telephony-common.jar \
     vendor/asus/X00T/proprietary/lib/com.qualcomm.qti.dpm.api@1.0.so:system/lib/com.qualcomm.qti.dpm.api@1.0.so \
     vendor/asus/X00T/proprietary/vendor/lib/com.qualcomm.qti.imscmservice@1.0.so:$(TARGET_COPY_OUT_VENDOR)/lib/com.qualcomm.qti.imscmservice@1.0.so \
     vendor/asus/X00T/proprietary/vendor/lib/com.qualcomm.qti.imscmservice@1.1.so:$(TARGET_COPY_OUT_VENDOR)/lib/com.qualcomm.qti.imscmservice@1.1.so \
